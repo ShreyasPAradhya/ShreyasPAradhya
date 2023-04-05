@@ -3,8 +3,8 @@
 
 Languages and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,js,html,css,py,bootstrap,c,cpp,firebase,flask,git,github,heroku,mysql,linux)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,js,html,css,py,bootstrap,c,cpp)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=firebase,flask,git,github,heroku,mysql,linux)](https://skillicons.dev)
 <!--
 **ShreyasPAradhya/ShreyasPAradhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
