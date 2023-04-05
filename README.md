@@ -1,5 +1,10 @@
-### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Hi there 👋, I'm Shreyas Aradhya 
+### Welcome to my profile
+
+Languages and tools:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bootstrap,c,cpp,firebase,flask,git,github,heroku,mysql)](https://skillicons.dev)
+
 <!--
 **ShreyasPAradhya/ShreyasPAradhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
