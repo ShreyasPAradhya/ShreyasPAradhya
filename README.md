@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Shreyas Aradhya 
-### Welcome to my profile
+### Welcome to my profile...
 
 Languages and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bootstrap,c,cpp,firebase,flask,git,github,heroku,mysql,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,js,html,css,py,bootstrap,c,cpp,firebase,flask,git,github,heroku,mysql,linux)](https://skillicons.dev)
 
 <!--
 **ShreyasPAradhya/ShreyasPAradhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 Reach me @:  
+  [Linkedin](https://www.linkedin.com/in/shreyas-aradhya-0109a9202 "Shreyas' profile")  
+  [Instagram](https://www.instagram.com/shreyas_paradhya "Shreyas' profile")
