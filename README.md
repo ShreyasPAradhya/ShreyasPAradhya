@@ -1,7 +1,7 @@
 ## Hi there! 👋, I'm Shreyas Aradhya 
 ### Welcome to my profile ...
 
-Languages and tools:
+Languages and tools I'm interested in:
 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,js,html,css,py,bootstrap,c,cpp)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=firebase,flask,git,github,heroku,mysql,linux)](https://skillicons.dev)
