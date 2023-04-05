@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Shreyas Aradhya 
+## Hi there! 👋, I'm Shreyas Aradhya 
 ### Welcome to my profile ...
 
 Languages and tools:
