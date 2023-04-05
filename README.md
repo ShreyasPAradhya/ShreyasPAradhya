@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Shreyas Aradhya 
-### Welcome to my profile...
+### Welcome to my profile ...
 
 Languages and tools:
 
